@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+        <body style="background-color:dimgray;">
+
+        <title>Group website </title>
+
+</head>
+<h1 style="font-family: 'Brush Script MT', cursive;">Zahir</h1>
+<h2 style="font-family: 'Brush Script MT', cursive;">Fun Facts</h2>
+<h3>
+     <li> loves cars </li>
+     <li> has an iPhone </li>
+     <li> likes to eat pizza</li>
+     <li> drives an audi R8</li>
+     <li> favourite colour is purple</li>
+     <li> likes to box</li>
+<h1 style="font-family: 'Brush Script MT', cursive;">Photo</h1>
+<img src="/Task 2/images/car.jpg" width = "225" height = "300">
+    <h1 style="font-family: 'Brush Script MT', cursive;">Highlighted Story</h1>
+ </h3>
+
+ <p> Zahir is one of the best drivers that ever lived. He actually learnt to drive when he was 12, but got his liscence at 17. He has 3 cars in his private garage and goes on night races every weekend at 10pm. He wins every race, even when the other driver has a better car. He also owns a car dealership where he rents out and sells supercars to the most elite. He has links to all the top end car manufacturers.</p>
+    <h2>Webpage created by Marzhan Anbia.</h2>
+ 
+
+
+
+
+</div>
+</body>
